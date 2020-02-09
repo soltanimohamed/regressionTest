@@ -10,4 +10,4 @@ ADD ./target/petstore-0.0.1-SNAPSHOT.jar  mavenpetstore.jar
 
 EXPOSE 8080
 
-CMD java -jar petstore.jar
+CMD java -jar mavenpetstore.jar
